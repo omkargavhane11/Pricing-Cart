@@ -3,13 +3,16 @@
     margin:0px;
     /* font-family: 'Roboto', sans-serif; */
     font-family: 'Montserrat', sans-serif;
+    transform: scale(0.99);
     
 }
 
+
+
 body{
     background-color:rgb(78, 117, 225);
-
 }
+
 
 .container{
     font-size:20px;
